@@ -10,7 +10,7 @@ This project is a simple web application for a Taco Shop, created using HTML, CS
 
 ## Demo
 
-[Click here to see the live demo.](https://your-username.github.io/taco-shop/)
+[Click here to see the live demo.](https://harithaguna.github.io/TacoShop/)
 
 ## How to Use
 
