@@ -12,9 +12,3 @@ This project is a simple web application for a Taco Shop, created using HTML, CS
 
 [Click here to see the live demo.](https://harithaguna.github.io/TacoShop/)
 
-## How to Use
-
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/your-username/taco-shop.git
